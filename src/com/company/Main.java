@@ -3,6 +3,10 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+
+        MagicDoor.door();
+
+
         Hero hero = new Hero();
         hero.health= 200;
         hero.typeofAttack=30;
@@ -22,6 +26,7 @@ public class Main {
 
 
     }
+
 
 
 }

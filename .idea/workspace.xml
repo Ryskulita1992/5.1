@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a281ee5b-5988-48af-86bc-364368324f15" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/company/magicDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/magicDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Berserk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MagicDoor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Tor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP lesson5/com/company/magicDoor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP lesson5/com/company/magicDoor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/magicDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/MagicDoor.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
@@ -79,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576411487401</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="5">
+      <created>1576411556964</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576411556964</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,7 +104,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
