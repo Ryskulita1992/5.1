@@ -28,6 +28,7 @@ public class magicDoor extends Hero {
         this.healthDamage = healthDamage;
     }
 
+    
     private int getTypeofAttack() {
         return typeofAttack;
     }
